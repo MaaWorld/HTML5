@@ -3,17 +3,24 @@
 <!-- LinkedIn: https://www.linkedin.com/company/maa-world/ -->
 
 <div align="center">
-    <h1>HTML5 Learning Tutorial</h1>
+    <h1>HTML5 Learning Tutorial</h1> 
     <p>Welcome to the HTML5 learning tutorial. This guide will help you understand the basics and advanced concepts of HTML5.</p>
 </div>
+
+<p>
+<img src="html5.png" alt="HTML5" height="100" weight="100" />
+</p>
+
 
 >
 > Note: I’ve added only the most important points that will directly help you with your college projects or in the industry. After going through this, you’ll be ready to start your project quickly.
 > 
 > I didn’t include a lot of text or deep explanations because you can learn those details from other resources. Here, I’m focusing on the key things you need to know.
 > 
-> If you want to learn more about HTML5, you can visit the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) or [W3Schools HTML5 Tutorial](https://www.w3schools.com/html/html5_intro.asp).
+> If you want to learn more about HTML5, you can visit the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5), [W3Schools HTML5 Tutorial](https://www.w3schools.com/html/html5_intro.asp), [Code With Harry](https://www.codewithharry.com/tutorial/html-home/) or [GeeksForGeeks](https://www.geeksforgeeks.org/html-complete-guide/).
 > 
+
+<br>
 
 Today, I'm writing this tutorial to create a resource that will help you learn HTML in less than 15 days. Here's a recommended timeline for learning HTML5 with projects, based on your educational background:
 
@@ -24,6 +31,22 @@ Today, I'm writing this tutorial to create a resource that will help you learn H
 If you are take more time that's mean you are not doing practice. So, I recommend you to do practice as much as you can.
 
 ---
+
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML5 Learning Tutorial</title>
+</head>
+<body>
+    <h1>HTML5 Learning Tutorial</h1>
+    <p>Welcome to the HTML5 learning tutorial. This guide will help you understand the basics and advanced concepts of HTML5.</p>
+</body>
+</html>
+```
 
 ## Table of Contents
 1. [HTML5 Introduction](#html5-introduction)   
