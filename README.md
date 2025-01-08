@@ -58,16 +58,10 @@ If you are take more time that's mean you are not doing practice. So, I recommen
 <h1 align="center"> Table of Contents </h1>
 
 1. [HTML5 Introduction](#html5-introduction)    
-2. [HTML5 Syntax](#html5-syntax)
-3. [New Features in HTML5](#new-features-in-html5)
-4. [HTML5 Forms](#html5-forms)
-5. [HTML5 APIs](#html5-apis)
-6. [HTML5 Best Practices](#html5-best-practices)
-7. [Resources](#resources)
-8. [Conclusion](#conclusion)
 
 
-<h1 align="center">HTML5 Introduction</h1>
+
+## HTML5 Introduction
 
 What is HTML?
 - HTML stands for Hyper Text Markup Language
@@ -92,13 +86,12 @@ By mastering HTML5, you can create modern, responsive, and interactive web appli
 
 ---
 
-<h1 align="center">Comments in HTML5</h1>
+## Comments in HTML5
 
 ```html
 <!-- This is a comment -->
 ```
 
-<h1 align="center">HTML5 Syntax</h1>
 
 
 
